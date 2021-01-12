@@ -1,4 +1,4 @@
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/login.png)
+![Preview](/screenshots/login.png?raw=true "Preview")
 
 # About AFCMSC
 
