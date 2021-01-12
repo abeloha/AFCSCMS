@@ -59,20 +59,20 @@ The system has 8 basic security or privilege levels: student, ds, ci, director, 
 
 ## Screenshots
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/home.png)
+![Preview](/screenshots/home.png?raw=true "Preview")
 Admin Dashboard: showing calendar events
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/home.png)
+![Preview](/screenshots/home.png?raw=true "Preview")
 Student Dashboard: Showing list of exercises (courses) enroled
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/list.png)
+![Preview](/screenshots/list.png?raw=true "Preview")
 Admin Exercise List: All list and tables support search, print and exporting to CSV and Excel  
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/result.png)
+![Preview](/screenshots/result.png?raw=true "Preview")
 Grade-book: View students performance and grade
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/mail.png)
+![Preview](/screenshots/mail.png?raw=true "Preview")
 Mail: Send and reply mail and correspondences
 
-![Preview](https://raw.githubusercontent.com/abeloha/AFCSCMS_private/main/screenshots/profile.png)
+![Preview](/screenshots/profile.png?raw=true "Preview")
 Profile: User profile
