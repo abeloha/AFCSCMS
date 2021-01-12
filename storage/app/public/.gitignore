@@ -1,0 +1,17 @@
+# exclude everything
+form/*
+love_letter/*
+mail/*
+material/*
+requirement/*
+user/*
+
+# exception to the rule
+!form/.gitkeep
+!love_letter/.gitkeep
+!mail/.gitkeep
+!material/.gitkeep
+!requirement/.gitkeep
+!user/.gitkeep
+
+!.gitignore
