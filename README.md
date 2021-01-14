@@ -76,3 +76,6 @@ Mail: Send and reply mail and correspondences
 
 ![Preview](/screenshots/profile.png?raw=true "Preview")
 Profile: User profile
+
+## Note:
+Some controllers and models have been removed in this public repository due to the confidential nature of the project. But the full code is available in a private repository. Contact me (abonuoha@gmail.com) if you wish to gain access. 
